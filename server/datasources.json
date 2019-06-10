@@ -1,0 +1,12 @@
+{
+  "mySQL": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "mySQL",
+    "password": "root",
+    "name": "mySQL",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

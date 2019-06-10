@@ -1,0 +1,10 @@
+h1
+{
+    text-align: center;
+}
+
+.counter {
+    margin: 20% 35% 80% 35%; 
+    top: 10px; 
+    color: red
+}
