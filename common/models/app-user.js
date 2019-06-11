@@ -91,7 +91,7 @@ module.exports = function(Appuser) {
         path: '/login',
         verb: 'POST',
       },
-    description: 'API to login, returns access token',
+    description: 'API to login, returns user data from database',
   });
 
 //   var comparePassword = function (password, hashedPassword) {
